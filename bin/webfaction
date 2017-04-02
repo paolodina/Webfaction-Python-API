@@ -231,7 +231,7 @@ class WebFaction(object):
 
 def webfaction_version():
     '''Print webfaction version'''
-    print VERSION
+    print(VERSION)
 
 def main():
     '''Let's do it.'''
